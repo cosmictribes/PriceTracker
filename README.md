@@ -22,13 +22,14 @@ This time, we want to try something new.
 - Kotlin instead of Java
 - NextJS instead of Angular
 - Gradle instead of Maven
+- Reactive data access instead of blocking threads
 - Github Actions instead of Jenkins
 - Kubernetes instead of Docker
 - Python & GPT for scraping data we can't directly access
 
 For testing:
 - Code analysis: SonarQube
-- Unit tests: Vitest instead of Junit
+- Unit tests: Vitest instead of Jest as well as Kotlin implementations of Java testing libraries
 - E2E tests: Playwright instead of Cypress
 
 We have to rethink the structure of the project and how to implement the new techologies/dependencies.  
