@@ -13,7 +13,8 @@
 ## Log
 ### 2023-04-30
 If someone's interested in what we are doing right now, look at the [Sandbox](https://github.com/cosmictribes/sandbox) repo and its branches.  
-As soon as everything's ready for development, we'll push the project into the pricetracker repo. The sandbox repo is RnD only.  
+As soon as everything's ready for development, we'll push the project into the pricetracker repo.  
+The sandbox repo is RnD only.  
 
 We have experience building software in SpringBoot with Java, Angular, Maven, Jenkins and Docker.  
 
